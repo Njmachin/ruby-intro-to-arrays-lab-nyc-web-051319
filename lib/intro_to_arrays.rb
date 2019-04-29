@@ -26,4 +26,4 @@ def last_element_with_array_methods(arr)
   arr.pop()
 end
 
-def 
+def length_of_array
